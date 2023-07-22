@@ -1,0 +1,67 @@
+.logo{
+    width: 300px;
+    height: 170px;
+}
+
+figcaption{
+  font-size: 20px;
+  color:midnightblue;
+}
+
+.para{
+    font-size: 50px;
+    color:midnightblue;
+    margin-left: 200px;
+    text-shadow:5px 5px 5px black;
+
+}
+.par{
+    margin-left: 200px;
+    margin-top: -50px;
+    color:red;
+ }
+html{
+    background-image: url('IMG-20230628-WA0003.jpg');
+    background-attachment: fixed;
+}
+.information{
+  width: 10px;
+  height: 10px;
+}
+h2{
+
+  color: RED;
+}
+p{
+  font-size: 20px;
+  color: black;
+}
+.car{
+  position:
+  width:100px;
+  height:100px;
+margin-left: -600px;
+}
+.caption{
+  font-size: 50px;
+  color: black;
+  margin-left: -600px;
+}
+.caption1{
+  font-size: 20px;
+  color: black;
+  margin-left: -700px;
+
+}
+.caption2{
+  font-size: 20px;
+  color: black;
+  margin-left: -753px;
+
+}
+.caption3{
+  font-size: 20px;
+  color: black;
+  margin-left: -728px;
+
+}
